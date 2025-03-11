@@ -9,7 +9,7 @@ This project analyzes factors influencing patient no-shows in medical appointmen
 
 * Size: 110,527 rows, 14 columns
 
-* Key Features:
+📌## Key Features:
 
 * PatientId, AppointmentID: Identifiers
 
@@ -22,7 +22,7 @@ This project analyzes factors influencing patient no-shows in medical appointmen
 * No-show: Target variable (Yes = Missed appointment, No = Attended)
   
 
-📌 Key Questions Explored
+📌## Key Questions Explored
 
 1. Does age affect appointment attendance?
 
