@@ -3,9 +3,9 @@ This project analyzes factors influencing patient no-shows in medical appointmen
 
 📊 Dataset Information
 
-Dataset Name: No-Show Appointments
+* Dataset Name: No-Show Appointments
 
-Source: Kaggle - No-Show Appointments Dataset
+Source: Kaggle - No-Show Appointments Dataset (https://www.kaggle.com/datasets/joniarroba/noshowappointments)
 
 Size: 110,527 rows, 14 columns
 
